@@ -2,6 +2,7 @@
 **A** dvanced **E** ncryption **S** tandard (128-bit)
 A specification for the encryption of electronic data established by the U.S. National Institute of Standards and Technology (NIST) in 2001.
 aslo known by the name **Rijndael** 
+*Implemented here is the encryption the decryption can be done through reversing the processes*
 ___
 ## Inputs
 
@@ -127,3 +128,9 @@ ___
 ## Flow
 The whole flow can be understood from the following diagram
 ![alt text](https://github.com/Mohamed-Ammar/AES/blob/main/Flow.jpg)
+___
+## Refrences 
+open source site to check results
+http://aes.online-domain-tools.com/
+Youtube video explaining the flow 
+https://www.youtube.com/watch?v=gP4PqVGudtg
