@@ -126,3 +126,4 @@ col<sub>i old key</sub>  XOR col<sub>i-1 new key </sub> = col<sub>i</sub> in the
 ___
 ## Flow
 The whole flow can be understood from the following diagram
+![alt text](https://github.com/Mohamed-Ammar/AES/blob/main/Flow.jpg)
