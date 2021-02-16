@@ -130,7 +130,10 @@ The whole flow can be understood from the following diagram
 ![alt text](https://github.com/Mohamed-Ammar/AES/blob/main/Flow.jpg)
 ___
 ## Refrences 
-open source site to check results
-http://aes.online-domain-tools.com/ </n>
-Youtube video explaining the flow 
+
+
+1. Youtube video explaining the flow 
 https://www.youtube.com/watch?v=gP4PqVGudtg
+
+2.  open source site to check results
+http://aes.online-domain-tools.com/
