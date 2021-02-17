@@ -73,11 +73,11 @@ Final Round
   third row rotated twice
   and last row rotated four times
   <pre>
-  input to shift rows					output
-  a11 a12 a13 a14    				a11 a12 a13 a14
+  input to shift rows			output
+  a11 a12 a13 a14    		    a11 a12 a13 a14
   a21 a22 a23 a24      --->   	    a22 a23 a24 a21
-  a31 a32 a33 a34					a33 a34 a31 a32
-  a41 a42 a43 a44					a44 a41 a42 a43
+  a31 a32 a33 a34		    a33 a34 a31 a32
+  a41 a42 a43 a44		    a44 a41 a42 a43
   </pre>
   ___
   ### Mix Column
@@ -96,10 +96,10 @@ ___
 ### First step
 we take the last column from the key matrix and rotate it so
 <pre>
-k41					k42		
-k42					k43
+k41			k42		
+k42			k43
 k43    ------>		k44
-k44					k41
+k44			k41
 </pre>
 ### Second step
 We do the sub bytes process for the last column so each element in that last column will be replace by its corresponding element in the S-Box
